@@ -10,7 +10,7 @@ After hours game dev enthusiast. I love to experiment with game engines, build t
 
 ### Tech stack
 
-- Languages: C#, TypeScript/JavaScript, SQL, Python, Dart
+- Languages: C#, C++, TypeScript/JavaScript, SQL, Python, Dart
 - Frameworks: .NET, Node.js, Flutter, React, WPF
 - Tools & Cloud: Docker, Azure, Git, xUnit
 
