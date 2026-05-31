@@ -8,7 +8,7 @@ Outside of work I'm researching AI-driven 3D scene generation, focusing on pract
 
 After hours game dev enthusiast. I love to experiment with game engines, build tools and participate in game jams.
 
-## Tech stack
+### Tech stack
 
 - Languages: C#, TypeScript/JavaScript, SQL, Python, Dart
 - Frameworks: .NET, Node.js, Flutter, React, WPF
